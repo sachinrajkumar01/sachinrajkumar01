@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sachinrajkumar01
+- 👋 Hi, I’m @sachintk
 - 👀 I’m interested in cloud developments and automation
 - 🌱 I’m currently learning Advance Python and terraform
 - 💞️ I’m looking to collaborate on Devops
