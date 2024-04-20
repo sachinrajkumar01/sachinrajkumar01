@@ -2,7 +2,7 @@
 - 👀 I’m interested in cloud developments and automation
 - 🌱 I’m currently learning Advance Python and terraform
 - 💞️ I’m looking to collaborate on Devops
-- 📫 How to reach me @Linkdein www.linkedin.com/in/sachin-tk/
+- 📫 You can reach me @Linkdein www.linkedin.com/in/sachin-tk/
 - 😄 Pronouns: Sachi...
 - ⚡ Fun fact: The cloud is just someone else's computer
 
